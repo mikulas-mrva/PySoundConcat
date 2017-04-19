@@ -1,5 +1,5 @@
 set -euo pipefail
-pip install numpy
+pip install numpy==1.11.0
 pip install scipy
 pip install pysndfile
 pip install h5py
